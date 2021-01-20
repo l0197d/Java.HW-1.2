@@ -13,7 +13,7 @@
 * Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Техническое задание.
+* [Техническое задание](https://github.com/netology-code/javaqa-homeworks/tree/master/intro (часть: Задача №2 - Credit Card Number Validator)
 
 В качестве тестовых данных использовались данные:
 * [Техническое задание](https://github.com/netology-code/javaqa-homeworks/tree/master/intro (часть: Задача №2 - Credit Card Number Validator));
